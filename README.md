@@ -1,3 +1,8 @@
+在原始的版本上面添加部分功能
+如難度選擇
+金手指
+顯示殺敵數
+移除連線 好友 排行
 # PokéSurvivor · Mundo Misterioso
 
 Bullet-heaven con Pokémon al estilo de Survivor.io y Megabonk, con sprites de
