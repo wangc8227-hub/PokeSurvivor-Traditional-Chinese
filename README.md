@@ -1,8 +1,14 @@
 在原始的版本上面添加部分功能
-如難度選擇
-金手指
-顯示殺敵數
-移除連線 好友 排行
+純繁體中文 
+難度選擇 (簡單 普通 困難 地獄 BOSS挑戰 色違)
+金手指(無限抽獎捲 無限金幣)
+遊戲中顯示殺敵數
+移除連線 好友 排行 純純單機離線版
+一鍵強化
+
+如需撤下請告知 單純因為自己上班無法使用網路需要離線版本才刪除登入功能
+
+以下為原作者註解
 # PokéSurvivor · Mundo Misterioso
 
 Bullet-heaven con Pokémon al estilo de Survivor.io y Megabonk, con sprites de
